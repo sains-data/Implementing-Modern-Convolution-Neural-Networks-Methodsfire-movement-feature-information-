@@ -3,5 +3,5 @@ Kelompok 10 RA
 https://bit.ly/Tubes_DL_10
 
 Berikut Merupakan hasil dari deploy untuk link Streamlit dataset wildfire :
-https://bit.ly/Uas_Wildfire_Kel10
+https://bit.ly/StreamlitUAS_DL_KEL_10
 
